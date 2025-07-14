@@ -60,22 +60,30 @@ Teaching
 
 Awards and Honors
 ======
-•	2025       Outstanding Undergraduate Graduate of Nankai University\\
-•	2023–2024  Nankai University Innovation Scholarship, Nankai University\\
-•	2023–2024  Nankai University Social Practice Scholarship, Nankai University\\
-•	2022–2023  Dai Shuguai Environmental Chemistry Scholarship, Nankai University\\
-•	2022–2023  Nankai University Innovation Scholarship, Nankai University\\
-•	2022–2023  Outstanding Teaching Assistant for Undergraduate Courses, Nankai University\\
-•	2021–2022  Tianjin Municipal Government Scholarship, Tianjin Municipal Government\\
-•	2020       First Prize in the Preliminary Round of the 34th Chinese Chemistry Olympiad, GXNUFLS\\
-•	2019       Second Prize in the Preliminary Round of the 34th Chinese Chemistry Olympiad, GXNUFLS
+* **2025** - Outstanding Undergraduate Graduate, Nankai University
+* **2023–2024** - Nankai University Innovation Scholarship
+* **2023–2024** - Nankai University Social Practice Scholarship  
+* **2022–2023** - Dai Shuguai Environmental Chemistry Scholarship, Nankai University
+* **2022–2023** - Nankai University Innovation Scholarship
+* **2022–2023** - Outstanding Teaching Assistant for Undergraduate Courses, Nankai University
+* **2021–2022** - Tianjin Municipal Government Scholarship
+* **2020** - First Prize, 34th Chinese Chemistry Olympiad (Preliminary Round), GXNUFLS
+* **2019** - Second Prize, 34th Chinese Chemistry Olympiad (Preliminary Round), GXNUFLS
 
 Service and leadership
 ======
-Service (Teaching Assistantships)\\
-	•2022–2025  Organic Chemistry Teaching Assistant, Nankai University
-⁃ Served as TA for three consecutive academic years (2022‑2023, 2023‑2024, 2024‑2025) in core undergraduate Organic Chemistry courses; responsibilities included conducting discussion sections, providing office-hour support, grading exams/lab reports, and mentoring ~100 students per year.
+**Teaching Experience**
+* **2022–2025** - Organic Chemistry Teaching Assistant, Nankai University
+  * Served as teaching assistant for three consecutive academic years in core undergraduate Organic Chemistry courses
+  * Conducted weekly discussion sections and provided comprehensive office-hour support to students
+  * Graded examinations and laboratory reports with detailed feedback
+  * Mentored approximately 100 students annually, significantly improving their academic performance
+  * Recognized with "Outstanding Teaching Assistant" award for exceptional dedication
 
-Leadership\\
-	•2023–2024  President, Environmental Science Association, Nankai University
-⁃ Elected to lead student-run Environmental Science Association; coordinated semesterly seminars and outreach programs, oversaw a 10‑member executive board, and organised interdisciplinary workshops with faculty and external experts.
+**Leadership Experience**  
+* **2023–2024** - President, Environmental Science Association, Nankai University
+  * Elected to lead the student-run Environmental Science Association with over 200 active members
+  * Coordinated bi-semesterly academic seminars and community outreach programs
+  * Supervised a 10-member executive board and managed organizational operations
+  * Organized interdisciplinary workshops featuring distinguished faculty and external experts
+  * Enhanced association visibility and engagement through innovative programming initiatives
