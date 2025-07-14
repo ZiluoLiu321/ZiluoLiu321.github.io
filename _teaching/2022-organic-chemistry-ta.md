@@ -13,7 +13,7 @@ Served as teaching assistant for Organic Chemistry across three consecutive acad
 ## Course Overview
 ======
 * **Course Title**: Organic Chemistry 
-* **Academic Level**: Undergraduate (2nd year core course)
+* **Academic Level**: Undergraduate (1st year core course)
 * **Student Enrollment**: Approximately 100 students per academic year
 * **Duration**: Three consecutive academic years (2022-2023, 2023-2024, 2024-2025)
 * **Course Format**: Lectures, discussion sections, and laboratory sessions
