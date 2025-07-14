@@ -43,8 +43,8 @@ A collection of photos documenting my academic journey, competitions, and presen
 
 <div class="photo-gallery">
   <div class="photo-item">
-    <img src="/images/Competition_1.jpeg" alt="Guangzhou, Sep. 2023">
-    <div class="photo-caption">Third Prize at The 3rd Guangdong Smart Water Conservancy Innovation Competition</div>
+    <img src="/images/Competition_1.jpeg" alt="The 3rd Guanghuiyuan Cup 2023">
+    <div class="photo-caption">Third Prize at The 3rd Guangdong Intelligent Water Affairs Innovation Competition (“Guanghuiyuan Cup”)</div>
   </div>
   <div class="photo-item">
     <img src="/images/chemistry_olympiad_2019.jpg" alt="Chemistry Olympiad 2019">
