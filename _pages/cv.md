@@ -16,7 +16,6 @@ Education
 
 Work experience
 ======
-
 <!-- Work experience content temporarily hidden
 * Spring 2024: Academic Pages Collaborator
   * GitHub University
