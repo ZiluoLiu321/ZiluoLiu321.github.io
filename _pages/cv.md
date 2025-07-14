@@ -64,15 +64,28 @@ Skills
 * Language Skills
   * Chinese (Native)
   * English (Fluent)
-
+ 
 Publications
 ======
-*Publications will be updated as research progresses during PhD studies.*
 
+## Software Copyrights
+* **Liu, Z.** (2024). "Air Pollutant Concentration Prediction Software v1.0 (ML-based Prediction Tool)" Software Copyright Registration No. 2024SR0886969, National Copyright Administration of China.
+* **Liu, Z.** (2024). "Smart Industrial Park Water Quality Management System v1.0 (Pollution Sentinel)" Software Copyright Registration No. 2024SR0003175, National Copyright Administration of China.
+
+## Journal Articles
+*Journal publications will be updated as research progresses during PhD studies.*
+
+## Conference Papers  
+*Conference papers will be added upon acceptance and presentation.*
+
+<!-- 
+Note: Jekyll automatic publication generation is currently disabled.
+All publications are manually maintained above.
+-->
 <!--
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+<ul>{% for post in site.publications reversed %}
+  {% include archive-single-cv.html %}
+{% endfor %}</ul>
 -->
   
 Talks
