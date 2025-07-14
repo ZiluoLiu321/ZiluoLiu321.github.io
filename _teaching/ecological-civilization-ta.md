@@ -2,7 +2,7 @@
 title: "Introduction to Ecological Civilization Teaching Assistant"
 collection: teaching
 type: "Undergraduate Course"
-permalink: /teaching/ecological-civilization-ta.md
+permalink:/teaching/ecological-civilization-ta.md/
 venue: "Nankai University, College of Environmental Science and Engineering"
 date: 2022-03-01
 location: "Tianjin, China"
