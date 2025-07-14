@@ -37,7 +37,7 @@ author_profile: true
 }
 </style>
 
-A collection of photos documenting my academic journey, competitions, and presentations.
+A photo collection showcasing my academic journey, competitions, presentations, and extracurricular activities.
 
 ## Academic Competitions
 
