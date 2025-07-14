@@ -72,12 +72,12 @@ A photo collection showcasing my academic journey, competitions, presentations, 
     <div class="photo-caption">Social Practice in Singapore (Jul. 2023, Singapore)</div>
   </div>
   <div class="photo-item">
-    <img src="/images/Voluntary_Activities_1.jpg" alt="Tianjin_1">
-    <div class="photo-caption">Voluntary in Hebei (Aug. 2024, Hebei)</div>
+    <img src="/images/Voluntary_1.jpeg" alt="Tianjin_1">
+    <div class="photo-caption">Volunteer Science Outreach Activity at a Primary School in Tianjin (Dec. 2024, Tianjin)</div>
   </div>
   <div class="photo-item">
-    <img src="/images/Voluntary_Activities_2.jpg" alt="Tianjin_2">
-    <div class="photo-caption">Social Practice in Hebei (Aug. 2024, Hebei)</div>
+    <img src="/images/Voluntary_2.jpeg" alt="Tianjin_2">
+    <div class="photo-caption">Volunteer Science Outreach Activity at a Kindergarten in Tianjin (Mar. 2025, Tianjin)</div>
   </div>
 </div>
 
