@@ -44,7 +44,7 @@ A collection of photos documenting my academic journey, competitions, and presen
 <div class="photo-gallery">
   <div class="photo-item">
     <img src="/images/Competition_1.jpeg" alt="The 3rd Guanghuiyuan Cup 2023">
-    <div class="photo-caption">Third Prize at The 3rd Guangdong Intelligent Water Affairs Innovation Competition (“Guanghuiyuan Cup”)</div>
+    <div class="photo-caption">Third Prize at The 3rd Guangdong Intelligent Water Affairs Innovation Competition-“Guanghuiyuan Cup”(Sep. 2023, Guangzhou)</div>
   </div>
   <div class="photo-item">
     <img src="/images/chemistry_olympiad_2019.jpg" alt="Chemistry Olympiad 2019">
@@ -62,6 +62,18 @@ A collection of photos documenting my academic journey, competitions, and presen
   <div class="photo-item">
     <img src="/images/ta_award_ceremony.jpg" alt="Outstanding TA Award">
     <div class="photo-caption">Receiving Outstanding Teaching Assistant Award</div>
+  </div>
+</div>
+
+## Social Practice
+<div class="photo-gallery">
+  <div class="photo-item">
+    <img src="/images/Social_Practice_Singapore.jpg" alt="Singapore">
+    <div class="photo-caption">Social Practice in Singapore (Jul. 2023, Singapore)</div>
+  </div>
+  <div class="photo-item">
+    <img src="/images/Social_Practice_Hebei.jpg" alt="Hebei">
+    <div class="photo-caption">Social Practice in Hebei (Aug. 2024, Hebei)</div>
   </div>
 </div>
 
