@@ -15,7 +15,7 @@ Served as teaching assistant for Introduction to Ecological Civilization, suppor
 * **Course Title**: Introduction to Ecological Civilization
 * **Academic Level**: Undergraduate (1st year general education course)
 * **Student Enrollment**: Approximately 120 students per semester
-* **Duration**: Spring 2023 semester
+* **Duration**: Spring 2022 semester
 * **Course Format**: Lectures and seminar discussions
 
 ## Teaching Responsibilities
