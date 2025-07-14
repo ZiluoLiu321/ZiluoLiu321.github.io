@@ -4,17 +4,17 @@ collection: teaching
 type: "Undergraduate Course"
 permalink: /teaching/ecological-civilization-ta/
 venue: "Nankai University, College of Environmental Science and Engineering"
-date: 2023-02-01
+date: 2022-03-01
 location: "Tianjin, China"
 ---
 
 Served as teaching assistant for Introduction to Ecological Civilization, supporting course administration and student engagement in this foundational environmental studies course.
 
 ## Course Overview
-* **Course Title**: Introduction to Ecological Civilization (生态文明导论)
+* **Course Title**: Introduction to Ecological Civilization
 * **Academic Level**: Undergraduate (1st year general education course)
 * **Student Enrollment**: Approximately 120 students per semester
-* **Duration**: Spring 2023 semester
+* **Duration**: Spring 2022 semester
 * **Course Format**: Lectures and seminar discussions
 
 ## Teaching Responsibilities
