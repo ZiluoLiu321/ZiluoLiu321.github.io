@@ -48,7 +48,7 @@ A photo collection showcasing my academic journey, competitions, presentations, 
   </div>
   <div class="photo-item">
     <img src="/images/Competition_2.jpeg" alt="Green Innovation Competition 2023">
-    <div class="photo-caption">Second Prize at The 1st Beijing–Tianjin–Hebei University Student Green Innovation Competition (Dec. 2023, Tianjin)</div>
+    <div class="photo-caption">Second Prize at The 1st Beijing–Tianjin–Hebei University Student Green Innovation Competition (Nov. 2023, Tianjin)</div>
   </div>
 </div>
 
