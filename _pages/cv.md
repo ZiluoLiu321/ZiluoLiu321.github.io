@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D Candidate in Environmental Engineering, Tsinghua University, 202 - Present
+* Ph.D Candidate in Environmental Engineering, Tsinghua University, 2025 - Present
 * B.S. in Environmental Engineering, Nankai University, 2025
 
 Work experience
