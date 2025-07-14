@@ -43,7 +43,7 @@ A collection of photos documenting my academic journey, competitions, and presen
 
 <div class="photo-gallery">
   <div class="photo-item">
-    <img src="/images/chemistry_olympiad_2020.jpg" alt="Chemistry Olympiad 2020">
+    <img src="/images/Competition_1.jpeg" alt="Chemistry Olympiad 2020">
     <div class="photo-caption">First Prize in 34th Chinese Chemistry Olympiad (2020)</div>
   </div>
   <div class="photo-item">
