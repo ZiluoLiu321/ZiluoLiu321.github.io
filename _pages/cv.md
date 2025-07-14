@@ -60,15 +60,15 @@ Teaching
 
 Awards and Honors
 ======
-•	2025       Outstanding Undergraduate Graduate of Nankai University
-•	2023–2024  Nankai University Innovation Scholarship, Nankai University
-•	2023–2024  Nankai University Social Practice Scholarship, Nankai University
-•	2022–2023  Dai Shuguai Environmental Chemistry Scholarship, Nankai University
-•	2022–2023  Nankai University Innovation Scholarship, Nankai University
-•	2022–2023  Outstanding Teaching Assistant for Undergraduate Courses, Nankai University
-•	2021–2022  Tianjin Municipal Government Scholarship, Tianjin Municipal Government
-•	2020       First Prize in the Preliminary Round of the 34th Chinese Chemistry Olympiad
-•	2019       Second Prize in the Preliminary Round of the 34th Chinese Chemistry Olympiad
+•	2025       Outstanding Undergraduate Graduate of Nankai University\\
+•	2023–2024  Nankai University Innovation Scholarship, Nankai University\\
+•	2023–2024  Nankai University Social Practice Scholarship, Nankai University\\
+•	2022–2023  Dai Shuguai Environmental Chemistry Scholarship, Nankai University\\
+•	2022–2023  Nankai University Innovation Scholarship, Nankai University\\
+•	2022–2023  Outstanding Teaching Assistant for Undergraduate Courses, Nankai University\\
+•	2021–2022  Tianjin Municipal Government Scholarship, Tianjin Municipal Government\\
+•	2020       First Prize in the Preliminary Round of the 34th Chinese Chemistry Olympiad\\
+•	2019       Second Prize in the Preliminary Round of the 34th Chinese Chemistry Olympiad\\
 
 Service and leadership
 ======
