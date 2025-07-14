@@ -67,15 +67,23 @@ Skills
 
 Publications
 ======
+*Publications will be updated as research progresses during PhD studies.*
+
+<!--
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+-->
   
 Talks
 ======
+*Conference presentations and talks will be added upon participation in academic conferences.*
+
+<!--
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
+-->
 
 Teaching
 ======
