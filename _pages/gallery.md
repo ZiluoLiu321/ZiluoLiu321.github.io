@@ -44,11 +44,11 @@ A collection of photos documenting my academic journey, competitions, and presen
 <div class="photo-gallery">
   <div class="photo-item">
     <img src="/images/Competition_1.jpeg" alt="The 3rd Guanghuiyuan Cup 2023">
-    <div class="photo-caption">Third Prize at The 3rd Guangdong Intelligent Water Affairs Innovation Competition-“Guanghuiyuan Cup”(Sep. 2023, Guangzhou)</div>
+    <div class="photo-caption">Third Prize at The 3rd Guangdong Intelligent Water Affairs Innovation Competition-“Guanghuiyuan Cup” (Sep. 2023, Guangzhou)</div>
   </div>
   <div class="photo-item">
-    <img src="/images/chemistry_olympiad_2019.jpg" alt="Chemistry Olympiad 2019">
-    <div class="photo-caption">Second Prize in 34th Chinese Chemistry Olympiad (2019)</div>
+    <img src="/images/Competition_2.jpeg" alt="Green Innovation Competition 2023">
+    <div class="photo-caption">Second Prize at The 1st Beijing–Tianjin–Hebei University Student Green Innovation Competition (Dec. 2023, Tianjin)</div>
   </div>
 </div>
 
