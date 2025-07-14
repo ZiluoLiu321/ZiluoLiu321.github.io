@@ -60,7 +60,7 @@ A photo collection showcasing my academic journey, competitions, presentations, 
     <div class="photo-caption">Conducting Organic Chemistry Discussion Section (Jun. 2025, Tianjin)</div>
   </div>
   <div class="photo-item">
-    <img src="/images/TA_2.png" alt="Outstanding TA Award">
+    <img src="/images/TA_2.jpeg" alt="Outstanding TA Award">
     <div class="photo-caption">Receiving Outstanding Teaching Assistant Award (Sep. 2023, Tianjin)</div>
   </div>
 </div>
