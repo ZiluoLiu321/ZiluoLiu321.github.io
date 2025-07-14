@@ -52,6 +52,12 @@ Talks
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
 
+Teaching
+======
+  <ul>{% for post in site.teaching reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
 Awards and Honors
 ======
 * **2025** - Outstanding Undergraduate Graduate, Nankai University
@@ -66,15 +72,7 @@ Awards and Honors
 
 Service and leadership
 ======
-**Teaching Experience**
-* **2022–2025** - Organic Chemistry Teaching Assistant, Nankai University
-  * Served as teaching assistant for three consecutive academic years in core undergraduate Organic Chemistry courses
-  * Conducted weekly discussion sections and provided comprehensive office-hour support to students
-  * Graded examinations and laboratory reports with detailed feedback
-  * Mentored approximately 100 students annually, significantly improving their academic performance
-  * Recognized with "Outstanding Teaching Assistant" award for exceptional dedication
-
-**Leadership Experience**  
+**Leadership Experience**
 * **2023–2024** - President, Environmental Science Association, Nankai University
   * Elected to lead the student-run Environmental Science Association with over 200 active members
   * Coordinated bi-semesterly academic seminars and community outreach programs
