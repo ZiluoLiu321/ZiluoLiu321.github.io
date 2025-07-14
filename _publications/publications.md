@@ -17,9 +17,9 @@ I am currently in the early stages of my PhD program in Environmental Engineerin
 
 ## Software Copyrights
 
-* **Liu, Z.** (2024). "Air Quality Data Processing and Visualization System V1.0" Software Copyright Registration No. 2024SR0123456, National Copyright Administration of China. [[Certificate PDF]](http://ziluoliu321.github.io/files/air-quality-software-certificate.pdf)
+* **Liu, Z.** (2024). "Air Pollutant Concentration Prediction Software v1.0 (ML-based Prediction Tool)" Software Copyright Registration No. 2024SR0886969, National Copyright Administration of China. [[Certificate PDF]](http://ziluoliu321.github.io/files/air-quality-software-certificate.pdf)
 
-* **Liu, Z.** (2023). "Atmospheric Dispersion Modeling Tool V2.0" Software Copyright Registration No. 2023SR0654321, National Copyright Administration of China. [[Certificate PDF]](http://ziluoliu321.github.io/files/water-quality-system.pdf)
+* **Liu, Z.** (2024). "Smart Industrial Park Water Quality Management System v1.0 (Pollution Sentinel)" Software Copyright Registration No. 2024SR0003175, National Copyright Administration of China. [[Certificate PDF]](http://ziluoliu321.github.io/files/water-quality-system.pdf)
 
 ## Journal Articles
 *Journal publications will be updated as research progresses during PhD studies.*
