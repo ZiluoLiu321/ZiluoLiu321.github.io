@@ -56,8 +56,8 @@ A photo collection showcasing my academic journey, competitions, presentations, 
 
 <div class="photo-gallery">
   <div class="photo-item">
-    <img src="/images/teaching_organic_chemistry.jpg" alt="Teaching Organic Chemistry">
-    <div class="photo-caption">Conducting Organic Chemistry Discussion Section</div>
+    <img src="/images/TA_1.png" alt="Teaching Organic Chemistry">
+    <div class="photo-caption">Conducting Organic Chemistry Discussion Section (Jun. 2025, Tianjin)</div>
   </div>
   <div class="photo-item">
     <img src="/images/ta_award_ceremony.jpg" alt="Outstanding TA Award">
