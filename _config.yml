@@ -15,7 +15,7 @@ name                     : &name "Ziluo Liu"
 description              : &description "personal description"
 url                      : https://ziluoliu321.github.io/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "ziluoliu321/ziluoliu321.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -25,9 +25,9 @@ author:
   avatar           : "证件照.png"
   name             : "Ziluo Liu"
   pronouns         : # example: "she/her"  
-  bio              : "PhD Candidate at Tsinghua University"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "PhD Candidate in Environmental Engineering at Tsinghua University"
+  location         : "Beijing, China"
+  employer         : "Tsinghua University"
   uri              : # URL
   email            : "ziluoliu321@gmail.com" 
 
@@ -61,7 +61,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : Ziluo Liu
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
