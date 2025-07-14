@@ -33,12 +33,37 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+======
+* Programming Languages
+  * Python, MATLAB, R
+  * C++, Fortran
+  * Shell scripting
+* Computational Fluid Dynamics (CFD)
+  * ANSYS Fluent, OpenFOAM
+  * COMSOL Multiphysics
+  * WRF (Weather Research and Forecasting Model)
+  * CMAQ (Community Multiscale Air Quality Model)
+* Air Quality Modeling
+  * Atmospheric dispersion modeling
+  * Emission inventory development
+  * Meteorological data processing
+  * Pollutant transport and transformation
+* Data Analysis & Visualization
+  * NumPy, Pandas, SciPy
+  * Matplotlib, Seaborn, Plotly
+  * GIS tools (ArcGIS, QGIS)
+  * Remote sensing data analysis
+* High Performance Computing
+  * Parallel computing (MPI, OpenMP)
+  * Linux cluster management
+  * Grid computing systems
+* Research Tools
+  * LaTeX, Git
+  * Statistical analysis
+  * Machine learning applications in environmental modeling
+* Language Skills
+  * Chinese (Native)
+  * English (Fluent)
 
 Publications
 ======
