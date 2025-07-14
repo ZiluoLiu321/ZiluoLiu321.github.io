@@ -36,7 +36,6 @@ End of hidden content -->
 
 Skills
 ======
-======
 * Programming Languages
   * Python, MATLAB, R
   * C++, Fortran
