@@ -13,7 +13,7 @@ Education
 ======
 * Ph.D Candidate in Environmental Engineering, Tsinghua University, 2025 - Present
 * B.S. in Environmental Engineering, Nankai University, 2025
-
+<!--
 Work experience
 ======
 * Spring 2024: Academic Pages Collaborator
@@ -30,7 +30,7 @@ Work experience
   * GitHub University
   * Duties included: Tagging issues
   * Supervisor: Professor Git
-  
+-->
 Skills
 ======
 ======
