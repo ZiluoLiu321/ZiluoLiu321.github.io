@@ -69,7 +69,7 @@ A collection of photos documenting my academic journey, competitions, and presen
 <div class="photo-gallery">
   <div class="photo-item">
     <img src="/images/Social_Practice_Singapore.jpeg" alt="Singapore">
-    <div class="photo-caption">Social Practice in Singapore (Jul. 2023, Singapore)</div>
+    <div class="photo-caption">Social Practice in Singapore (Jul. 2023, Singapore)[https://news.nankai.edu.cn/dcxy/system/2023/07/11/030057039.shtml]</div>
   </div>
   <div class="photo-item">
     <img src="/images/Social_Practice_Hebei.jpg" alt="Hebei">
