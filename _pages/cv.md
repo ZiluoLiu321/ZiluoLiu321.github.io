@@ -79,3 +79,11 @@ Service and leadership
   * Supervised a 10-member executive board and managed organizational operations
   * Organized interdisciplinary workshops featuring distinguished faculty and external experts
   * Enhanced association visibility and engagement through innovative programming initiatives
+* **2019–2020** - President, Chemical Society, Foreign Language School Attached to Guangxi Normal University
+  * Led a student-run chemical society with 50+ active members during high school senior year
+  * Organized monthly chemistry demonstration sessions and hands-on experiments for junior students
+  * Coordinated participation in regional chemistry competitions, achieving 85% advancement rate to provincial level
+  * Established partnerships with local universities for guest lectures and laboratory visits
+  * Managed society budget and resources, securing funding for equipment and materials
+  * Mentored junior members in competition preparation, resulting in multiple award recipients
+  * Developed chemistry outreach programs for middle school students in the community
