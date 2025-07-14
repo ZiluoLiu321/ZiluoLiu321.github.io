@@ -39,8 +39,7 @@ Skills
   * C++, Fortran
   * Shell scripting
 * Computational Fluid Dynamics (CFD)
-  * ANSYS Fluent, OpenFOAM
-  * COMSOL Multiphysics
+  * PALM (Parallelized Large-Eddy Simulation Model)
   * WRF (Weather Research and Forecasting Model)
   * CMAQ (Community Multiscale Air Quality Model)
 * Air Quality Modeling
