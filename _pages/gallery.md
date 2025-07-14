@@ -68,7 +68,7 @@ A collection of photos documenting my academic journey, competitions, and presen
 ## Social Practice
 <div class="photo-gallery">
   <div class="photo-item">
-    <img src="/images/Social_Practice_Singapore.jpg" alt="Singapore">
+    <img src="/images/Social_Practice_Singapore.jpeg" alt="Singapore">
     <div class="photo-caption">Social Practice in Singapore (Jul. 2023, Singapore)</div>
   </div>
   <div class="photo-item">
