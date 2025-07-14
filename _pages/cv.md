@@ -72,10 +72,10 @@ Awards and Honors
 
 Service and leadership
 ======
-Service (Teaching Assistantships)
-	•	2022–2025  Organic Chemistry Teaching Assistant, Nankai University
+Service (Teaching Assistantships)\\
+	•2022–2025  Organic Chemistry Teaching Assistant, Nankai University
 ⁃ Served as TA for three consecutive academic years (2022‑2023, 2023‑2024, 2024‑2025) in core undergraduate Organic Chemistry courses; responsibilities included conducting discussion sections, providing office-hour support, grading exams/lab reports, and mentoring ~100 students per year.
 
-Leadership
-	•	2023–2024  President, Environmental Science Association, Nankai University
+Leadership\\
+	•2023–2024  President, Environmental Science Association, Nankai University
 ⁃ Elected to lead student-run Environmental Science Association; coordinated semesterly seminars and outreach programs, oversaw a 10‑member executive board, and organised interdisciplinary workshops with faculty and external experts.
