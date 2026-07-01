@@ -1,0 +1,129 @@
+/* ===== Global ===== */
+
+html, body {
+    height: 100%;
+    background-color: rgb(250, 249, 245);
+}
+
+body {
+    font-family: "Baskerville", Georgia, Cambria, "Times New Roman", Times, serif;
+    margin: 0 auto;
+    padding: 0;
+    min-width: 320px;
+    max-width: 1200px;
+    display: flex;
+    flex-direction: column;
+    color: #333;
+    line-height: 1.7;
+}
+
+a, a:visited { color: inherit; }
+a:hover, a:active { color: #008080; }
+
+/* ===== Header / Nav ===== */
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    border-bottom: 1px solid #ccc;
+}
+
+nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    gap: 20px;
+}
+
+nav a { text-decoration: none; }
+
+/* ===== Footer ===== */
+
+footer {
+    text-align: center;
+    padding: 20px;
+    border-top: 1px solid #ccc;
+    margin-top: auto;
+    font-size: 0.9em;
+    color: #888;
+}
+
+/* ===== Content ===== */
+
+/* narrow width: homepage, about, etc. */
+.content {
+    width: 70%;
+    min-width: 300px;
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 40px 0;
+}
+
+/* wider width: blog posts / articles */
+.content-article {
+    width: 90%;
+    min-width: 300px;
+    max-width: 720px;
+    margin: 0 auto;
+    padding: 40px 0;
+}
+
+.content-article h1, .content-article h2, .content-article h3 {
+    font-weight: 600;
+    margin: 1em 0 0 0;
+}
+
+.content-article h1 { margin: 1.5em 0 0 0; }
+
+.content-article img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
+
+.content-article figure {
+    margin: 1em 0;
+}
+
+.content-article figcaption {
+    display: none;
+}
+
+/* ===== Article list (writings page) ===== */
+
+.article-overview {
+    padding: 1em 0;
+    margin: 1em 0;
+}
+
+.article-overview h1 {
+    font-weight: 600;
+    margin: 0;
+    font-size: 1.3em;
+}
+
+.article-overview p {
+    margin: 0.5em 0 0 0;
+}
+
+.article-date {
+    color: #666;
+    font-size: 0.9em;
+}
+
+/* ===== Mobile ===== */
+
+@media (max-width: 600px) {
+    .content, .content-article {
+        width: 90%;
+        padding: 20px 0;
+    }
+    header {
+        flex-direction: column;
+        gap: 10px;
+    }
+}
