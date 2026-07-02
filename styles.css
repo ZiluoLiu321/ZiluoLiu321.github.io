@@ -1,8 +1,28 @@
+/* ===== Theme Variables ===== */
+
+:root {
+    --bg: #faf9f5;
+    --text: #333;
+    --border: #ccc;
+    --muted: #666;
+    --footer-text: #888;
+    --link-hover: #008080;
+}
+
+[data-theme="dark"] {
+    --bg: #1a1a1a;
+    --text: #ddd;
+    --border: #444;
+    --muted: #999;
+    --footer-text: #777;
+    --link-hover: #00cccc;
+}
+
 /* ===== Global ===== */
 
 html, body {
     height: 100%;
-    background-color: rgb(250, 249, 245);
+    background-color: var(--bg);
 }
 
 body {
@@ -13,12 +33,29 @@ body {
     max-width: 1200px;
     display: flex;
     flex-direction: column;
-    color: #333;
+    color: var(--text);
     line-height: 1.7;
 }
 
 a, a:visited { color: inherit; }
-a:hover, a:active { color: #008080; }
+a:hover, a:active { color: var(--link-hover); }
+
+/* ===== Theme Toggle ===== */
+
+.theme-toggle {
+    background: none;
+    border: 1px solid var(--border);
+    color: var(--text);
+    padding: 4px 10px;
+    cursor: pointer;
+    font-size: 0.85em;
+    font-family: inherit;
+    border-radius: 4px;
+}
+.theme-toggle:hover {
+    border-color: var(--link-hover);
+    color: var(--link-hover);
+}
 
 /* ===== Header / Nav ===== */
 
@@ -27,7 +64,7 @@ header {
     justify-content: space-between;
     align-items: center;
     padding: 20px;
-    border-bottom: 1px solid #ccc;
+    border-bottom: 1px solid var(--border);
 }
 
 nav ul {
@@ -36,6 +73,7 @@ nav ul {
     padding: 0;
     display: flex;
     gap: 20px;
+    align-items: center;
 }
 
 nav a { text-decoration: none; }
@@ -45,15 +83,14 @@ nav a { text-decoration: none; }
 footer {
     text-align: center;
     padding: 20px;
-    border-top: 1px solid #ccc;
+    border-top: 1px solid var(--border);
     margin-top: auto;
     font-size: 0.9em;
-    color: #888;
+    color: var(--footer-text);
 }
 
 /* ===== Content ===== */
 
-/* narrow width: homepage, about, etc. */
 .content {
     width: 70%;
     min-width: 300px;
@@ -62,7 +99,6 @@ footer {
     padding: 40px 0;
 }
 
-/* wider width: blog posts / articles */
 .content-article {
     width: 90%;
     min-width: 300px;
@@ -85,15 +121,10 @@ footer {
     margin: 0 auto;
 }
 
-.content-article figure {
-    margin: 1em 0;
-}
+.content-article figure { margin: 1em 0; }
+.content-article figcaption { display: none; }
 
-.content-article figcaption {
-    display: none;
-}
-
-/* ===== Article list (writings page) ===== */
+/* ===== Article list ===== */
 
 .article-overview {
     padding: 1em 0;
@@ -106,13 +137,24 @@ footer {
     font-size: 1.3em;
 }
 
-.article-overview p {
-    margin: 0.5em 0 0 0;
-}
+.article-overview p { margin: 0.5em 0 0 0; }
 
 .article-date {
-    color: #666;
+    color: var(--muted);
     font-size: 0.9em;
+}
+
+/* ===== Publications ===== */
+
+.pub-year {
+    margin: 1.5em 0 0.3em 0;
+    font-weight: 600;
+}
+
+.pub-year + hr {
+    border: none;
+    border-top: 1px solid var(--border);
+    margin: 0 0 1em 0;
 }
 
 /* ===== Mobile ===== */
