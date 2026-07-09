@@ -8,6 +8,10 @@ function includeHTML() {
                 element.innerHTML = data;
                 const yearEl = element.querySelector('#footer-year');
                 if (yearEl) yearEl.textContent = new Date().getFullYear();
+                const quoteEl = element.querySelector('#footer-quote');
+                if (quoteEl && element.hasAttribute('data-quote')) {
+                    quoteEl.textContent = element.getAttribute('data-quote');
+                }
             })
             .catch(error => {
                 element.innerHTML = '<p>Error loading content</p>';
